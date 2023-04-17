@@ -30,7 +30,6 @@ export default {
       },
       {
         nombreRuta: 'tema1',
-        icono: 'far fa-file-alt',
         numero: '1',
         titulo: 'Titulo de primer nivel',
         desarrolloContenidos: true,
@@ -45,14 +44,12 @@ export default {
 
       {
         nombreRuta: 'tema2',
-        icono: 'far fa-file-alt',
         numero: '2',
         titulo: 'Titulo de primer nivel',
         desarrolloContenidos: true,
       },
       {
         nombreRuta: 'tema3',
-        icono: 'far fa-file-alt',
         numero: '3',
         titulo: 'Titulo de primer nivel',
         desarrolloContenidos: true,
